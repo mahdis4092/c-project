@@ -1,0 +1,14 @@
+G:\AIUB\9th semester\C#\final\Hospital_management_system\Hospital_management_system\obj\Debug\Hospital_management_system.csprojAssemblyReference.cache
+G:\AIUB\9th semester\C#\final\Hospital_management_system\Hospital_management_system\obj\Debug\Hospital_management_system.Properties.Resources.resources
+G:\AIUB\9th semester\C#\final\Hospital_management_system\Hospital_management_system\obj\Debug\Hospital_management_system.Ui_Layer.PatientsEm.resources
+G:\AIUB\9th semester\C#\final\Hospital_management_system\Hospital_management_system\obj\Debug\Hospital_management_system.csproj.GenerateResource.cache
+G:\AIUB\9th semester\C#\final\Hospital_management_system\Hospital_management_system\obj\Debug\Hospital_management_system.csproj.CoreCompileInputs.cache
+G:\AIUB\9th semester\C#\final\Hospital_management_system\Hospital_management_system\bin\Debug\Hospital_management_system.exe.config
+G:\AIUB\9th semester\C#\final\Hospital_management_system\Hospital_management_system\bin\Debug\Hospital_management_system.exe
+G:\AIUB\9th semester\C#\final\Hospital_management_system\Hospital_management_system\bin\Debug\Hospital_management_system.pdb
+G:\AIUB\9th semester\C#\final\Hospital_management_system\Hospital_management_system\obj\Debug\Hospital_management_system.exe
+G:\AIUB\9th semester\C#\final\Hospital_management_system\Hospital_management_system\obj\Debug\Hospital_management_system.pdb
+G:\AIUB\9th semester\C#\final\Hospital_management_system\Hospital_management_system\obj\Debug\Hospital_management_system.Ui_Layer.Bill.resources
+G:\AIUB\9th semester\C#\final\Hospital_management_system\Hospital_management_system\obj\Debug\Hospital_management_system.Ui_Layer.Home.resources
+G:\AIUB\9th semester\C#\final\Hospital_management_system\Hospital_management_system\obj\Debug\Hospital_management_system.Ui_Layer.User.resources
+G:\AIUB\9th semester\C#\final\Hospital_management_system\Hospital_management_system\obj\Debug\Hospital_management_system.Ui_Layer.Login.resources
